@@ -1,0 +1,1 @@
+package in.quallit.postgresMultiSchemaDemo.entity.common;
