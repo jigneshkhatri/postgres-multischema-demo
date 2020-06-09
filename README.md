@@ -1,2 +1,3 @@
-# postgres-multischema-demo
-Demo Spring boot project with Postgres Multi Schema
+# Demo Spring boot project with Postgres Multi Schema
+
+## TODO: Complete README
